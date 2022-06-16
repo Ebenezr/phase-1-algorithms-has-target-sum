@@ -17,7 +17,7 @@ function hasTargetSum(array, target) {
   Write the Big O time complexity of your function here
   
   Big O time complexity: O(n) - Linear time complexity - the number of elements in the array is the number of operations performed on each element
-  
+    
 */
 
 /* 
